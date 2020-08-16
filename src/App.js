@@ -18,7 +18,7 @@ function App() {
         >
           Welcome back to Taiwan! Nick~
           You will get a web developer job in Taipei in October 2020.
-          React
+          React+NodeJS+MongoDB
         </a>
       </header>
     </div>
