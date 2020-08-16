@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Jenkins
+          Web Full-Stack Developer in Taipei
         </a>
       </header>
     </div>
